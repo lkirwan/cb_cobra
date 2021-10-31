@@ -1,2 +1,2 @@
 # cb_cobra
-stack: Java, Selenium
+Java powered selenium automation testing
